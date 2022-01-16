@@ -196,3 +196,113 @@
     margin-bottom: 20px;
 }
     
+.quatrieme_section{
+    display:flex;
+    justify-content: center;
+    align-items: space-around;
+}
+
+.quatrieme_section h2{
+    font-size: 30px;
+    color: #7562E0;
+    margin-right: 20px;
+    padding: 20px 20px;
+    font-family: 'Montserrat', sans-serif;
+}
+.quatrieme_section p{
+    font-family: 'Montserrat', sans-serif;
+    font-style: 16px;
+    padding: 25px 20px;
+}
+.quatrieme_section a{
+    color:#7562E0;
+    text-decoration: none;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 20px;
+    padding: 25px 20px;
+}
+
+.cinquieme_section{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height:80vh;
+    margin-top: 20px;
+    background-color: brown;
+}
+
+.cinquieme_section_centre{
+    background-color: blue;
+    height: 80vh;
+    width: 60%;
+    flex-wrap: wrap;
+}
+
+/*.photo_sixieme_section{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border: springgreen 1px solid;
+}*/
+
+.sixieme_section{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 70%;
+    margin-top: 40px;
+    height: 50vh;
+}
+.sixieme_section_left{ 
+    width: 55%;
+    border: teal 2px solid;
+    margin: 0;
+    border-radius: 15px;
+}
+.sixieme_section_right{
+    margin-left: 25px;
+    height: 40vh ;
+
+}
+.test{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.sixieme_section img{
+    border-radius: 15px;
+    width: 53%;
+}
+.sixieme_section_right h1{
+    font-size: 32px;
+    font-family:'Montserrat', sans-serif;
+    color: #7562E0;
+    padding: 0 0 25px 0;
+    font-weight: bold;
+}
+.sixieme_section_right p{
+    font-family:'Montserrat', sans-serif;
+    font-size: 18px;
+    padding-left: 2px;
+
+}
+.playst img{
+    width: 35%;
+    margin-top: 20px;
+}
+.playst {
+    text-align: center;
+}
+
+.septieme_section{
+    height: 30vh;
+    width: 1500px;
+    
+    margin-top: 15px;
+}
+.test{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
